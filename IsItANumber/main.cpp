@@ -5,6 +5,8 @@
 //		the input string because "e" has a different
 //		meaning than "E" and should not be accepted
 //		no matter the user's intention
+//	Another Note: This code does not recognize numerical
+//		expressions as being in the language of numbers
 
 
 #include <iostream>
